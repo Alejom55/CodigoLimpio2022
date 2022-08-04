@@ -1,13 +1,13 @@
-//En un curso se practican 4
-//evaluaciones con los siguientes
+/*En un curso se practican 4
+evaluaciones con los siguientes
 porcentajes: 25 %, 20 %, 25 % y 30 %,
 respectivamente.Por cada estudiante
 se informa código y las cuatro notas.
 Hacer un algoritmo que calcule la
 nota definitiva de cada estudiante, el
 promedio de notas definitivas del
-curso y el porcentaje de perdedores.
-///
+curso y el porcentaje de perdedores.*/
+ 
 
 int estudiantes;
 Console.WriteLine("Ingrese la cantidad de estudiantes");
